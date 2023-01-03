@@ -1,7 +1,7 @@
 ![Untitled](https://user-images.githubusercontent.com/115690921/210439468-214aa9f4-6524-4c56-a7c7-8ed33b9c5a60.png)
 
 # Movie Gross Correlation
-In this case study, we do data cleaning and correlation analysis using Python. There is 6820 movies in the dataset from year 1980 to year 2020, scraped from IMDB using Python. The Dataset is available on [Kaggle](https://www.kaggle.com/tmthyjames/nashville-housing-data](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download).
+In this case study, we do data cleaning and correlation analysis using Python. There is 6820 movies in the dataset from year 1980 to year 2020, scraped from IMDB using Python. The Dataset is available on [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download).
 
 We have done the following:
 
