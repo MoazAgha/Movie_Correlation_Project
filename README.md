@@ -1,22 +1,24 @@
 ![Untitled](https://user-images.githubusercontent.com/115690921/210439468-214aa9f4-6524-4c56-a7c7-8ed33b9c5a60.png)
 
 # Movie Gross Correlation
-In this case study, we do data cleaning and correlation analysis using Python. There is 6820 movies in the dataset from year 1980 to year 2020, scraped from IMDB using Python. The Dataset is available on [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download).
+This case study focuses on data cleaning and correlation analysis using Python. The dataset used for this project contains information on over 6,820 movies released between 1980 and 2020, and was scraped from IMDB using Python. The dataset is available on Kaggle [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download).
 
-We have done the following:
+To clean and analyze the data, we have performed the following tasks:
 
-1-	Importing various libraries
+1- Imported various libraries to support our analysis.
 
-2-	Importing data from csv file
+2- Loaded the data from a CSV file into our Python environment.
 
-3-	Removing rows with NULL values
+3- Removed rows with NULL values to ensure that all data is complete and accurate.
 
-4-	Modifying certain columns data type, for a cleaner look	
+4- Modified the data types of certain columns for a cleaner and more organized look.
 
-5-	Removing duplicated rows
+5- Removed duplicate rows to ensure that the data is unique.
 
-6-	Checking for correlation between features provided, using Pearson Correlation
+6- Used Pearson correlation to check for relationships between different features in the dataset.
 
-7-	Using scatter and regression plots through Pyplot and Seaborn
+7- Created scatter and regression plots using Pyplot and Seaborn to visualize the data.
 
-8-	Visualizing correlation using heatmaps 
+8- Generated heatmaps to further visualize the correlations between features.
+
+Through this process, we have gained valuable experience in applying data cleaning and correlation analysis techniques to real-world data. The final product is a clean and well-structured dataset with insights into the relationships between different features.
