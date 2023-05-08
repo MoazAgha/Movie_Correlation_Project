@@ -1,7 +1,7 @@
 ![Untitled](https://user-images.githubusercontent.com/115690921/210439468-214aa9f4-6524-4c56-a7c7-8ed33b9c5a60.png)
 
 # Movie Gross Correlation
-This case study focuses on data cleaning and correlation analysis using Python. The dataset used for this project contains information on over 6,820 movies released between 1980 and 2020, and was scraped from IMDB using Python. The dataset is available on Kaggle [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download).
+This case study focuses on data cleaning and correlation analysis using Python. The dataset used for this project contains information on over 6,820 movies released between 1980 and 2020, and was scraped from IMDB using Python. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download).
 
 To clean and analyze the data, we have performed the following tasks:
 
